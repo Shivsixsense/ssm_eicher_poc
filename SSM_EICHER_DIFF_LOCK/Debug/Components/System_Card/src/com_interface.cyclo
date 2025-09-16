@@ -1,0 +1,3 @@
+../Components/System_Card/src/com_interface.c:21:6:card_init_com_interface	2
+../Components/System_Card/src/com_interface.c:40:5:card_com_send_reponse	4
+../Components/System_Card/src/com_interface.c:72:13:com_rx_frame_task	2

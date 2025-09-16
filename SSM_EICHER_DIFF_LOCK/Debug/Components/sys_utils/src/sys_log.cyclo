@@ -1,0 +1,5 @@
+../Components/sys_utils/src/sys_log.c:12:6:init_logging	1
+../Components/sys_utils/src/sys_log.c:19:6:logging_uart	2
+../Components/sys_utils/src/sys_log.c:32:6:print_log	1
+../Components/sys_utils/src/sys_log.c:45:6:logging_uartln	2
+../Components/sys_utils/src/sys_log.c:61:6:print_logln	1
