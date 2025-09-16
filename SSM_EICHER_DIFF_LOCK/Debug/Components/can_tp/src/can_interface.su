@@ -1,6 +1,0 @@
-../Components/can_tp/src/can_interface.c:64:5:initialise_can_interface	16	static
-../Components/can_tp/src/can_interface.c:102:13:can_Rx_task	40	static
-../Components/can_tp/src/can_interface.c:135:13:can_tx_task	40	static
-../Components/can_tp/src/can_interface.c:167:13:FDCan_Config	32	static
-../Components/can_tp/src/can_interface.c:191:19:canbus_set_tx_header	8	static
-../Components/can_tp/src/can_interface.c:205:13:Can_driver_status_and_recovery_scheduler	8	static

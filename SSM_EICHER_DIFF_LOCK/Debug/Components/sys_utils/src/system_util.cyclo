@@ -1,3 +1,0 @@
-../Components/sys_utils/src/system_util.c:13:6:swapBytesHexArray	2
-../Components/sys_utils/src/system_util.c:22:10:swap_bytes	1
-../Components/sys_utils/src/system_util.c:26:14:hexToDecimal	2

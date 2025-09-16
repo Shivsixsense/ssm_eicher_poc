@@ -1,0 +1,6 @@
+../Components/can_tp/src/can_interface.c:63:5:initialise_can_interface	5
+../Components/can_tp/src/can_interface.c:101:13:can_Rx_task	2
+../Components/can_tp/src/can_interface.c:134:13:can_tx_task	3
+../Components/can_tp/src/can_interface.c:166:13:FDCan_Config	3
+../Components/can_tp/src/can_interface.c:190:19:canbus_set_tx_header	1
+../Components/can_tp/src/can_interface.c:204:13:Can_driver_status_and_recovery_scheduler	10

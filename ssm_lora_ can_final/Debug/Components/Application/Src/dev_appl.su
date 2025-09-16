@@ -1,0 +1,5 @@
+../Components/Application/Src/dev_appl.c:105:6:StartDefaultTask	24	static
+../Components/Application/Src/dev_appl.c:130:16:hex_char_to_int	16	static
+../Components/Application/Src/dev_appl.c:138:5:hex_string_to_bytes	48	static
+../Components/Application/Src/dev_appl.c:162:6:parse_ecu_data	24	static
+../Components/Application/Src/dev_appl.c:235:6:_lora_communication_handler	8	static

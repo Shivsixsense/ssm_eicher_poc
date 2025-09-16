@@ -1,0 +1,5 @@
+../Core/Src/system_logging.c:18:6:init_logging	1
+../Core/Src/system_logging.c:24:6:logging_uart	1
+../Core/Src/system_logging.c:35:6:print_log	1
+../Core/Src/system_logging.c:48:6:logging_uartln	1
+../Core/Src/system_logging.c:60:6:print_logln	1

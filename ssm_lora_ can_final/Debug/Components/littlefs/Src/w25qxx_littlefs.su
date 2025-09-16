@@ -1,0 +1,5 @@
+../Components/littlefs/Src/w25qxx_littlefs.c:41:5:w25qxx_littlefs_init	24	static
+../Components/littlefs/Src/w25qxx_littlefs.c:61:5:littlefs_read	24	static
+../Components/littlefs/Src/w25qxx_littlefs.c:67:5:littlefs_prog	24	static
+../Components/littlefs/Src/w25qxx_littlefs.c:73:5:littlefs_erase	16	static
+../Components/littlefs/Src/w25qxx_littlefs.c:79:5:littlefs_sync	16	static

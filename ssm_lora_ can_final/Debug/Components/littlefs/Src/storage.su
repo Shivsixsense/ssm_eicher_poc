@@ -1,0 +1,13 @@
+../Components/littlefs/Src/storage.c:47:5:init_storage	16	static
+../Components/littlefs/Src/storage.c:61:5:file_is_file_exist	16	static
+../Components/littlefs/Src/storage.c:66:5:file_delete_file	16	static
+../Components/littlefs/Src/storage.c:71:5:file_create_new_file	112	static
+../Components/littlefs/Src/storage.c:83:5:file_write_to_file	120	static
+../Components/littlefs/Src/storage.c:103:10:file_get_file_size	16	static
+../Components/littlefs/Src/storage.c:109:5:lfs_ls	352	static
+../Components/littlefs/Src/storage.c:167:5:file_read_line	120	static
+../Components/littlefs/Src/storage.c:194:7:Ltf_gets	48	static
+../Components/littlefs/Src/storage.c:216:5:storage_save_record	112	static
+../Components/littlefs/Src/storage.c:238:5:storage_get_record	120	static
+../Components/littlefs/Src/storage.c:282:12:storage_is_record_available	16	static
+../Components/littlefs/Src/storage.c:292:19:get_reverse_relative_pos	48	static

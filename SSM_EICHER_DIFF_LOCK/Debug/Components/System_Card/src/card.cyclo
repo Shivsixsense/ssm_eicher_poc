@@ -1,5 +1,0 @@
-../Components/System_Card/src/card.c:67:17:iotCard_init_module	2
-../Components/System_Card/src/card.c:81:17:iotCard_parse_raw_data	2
-../Components/System_Card/src/card.c:102:13:card_idle_monitor_task	4
-../Components/System_Card/src/card.c:134:5:parse_frame	4
-../Components/System_Card/src/card.c:170:6:handle_variable_by_address	30
